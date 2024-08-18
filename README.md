@@ -1,1 +1,1 @@
-# Cryptocurrency-Historical-Data-Analysis-
+This project focuses on analyzing historical data from four major cryptocurrencies: Bitcoin, Ethereum, Qtum, and Ripple. The dataset includes daily trading data, capturing critical metrics such as the opening price, highest and lowest prices during the day, closing price, trading volume, and market capitalization for each cryptocurrency.-
